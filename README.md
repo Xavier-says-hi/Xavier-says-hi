@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xavier-says-hi
+- 👋 Hi, I’m Zoe
 - 👀 I’m interested in coding, math and 🍩donuts!🍩
 - 🌱 I’m currently learning Python 3.10
 - 📫 You can reach me at AmAtEUrprOgrAmmEr512@gmail.com
